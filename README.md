@@ -4,7 +4,7 @@ In this exercise, we're going to spend more time with CSS grid implementing spec
 
 ## Instructions
 
-The `index.html` file in this repoistory contains place holder sections for you to implement different layouts. Take this file and implement Grid layouts in each section according to the requirements defined by the heading.
+The `index.html` file in this repository contains place holder sections for you to implement different layouts. Take this file and implement Grid layouts in each section according to the requirements defined by the heading.
 
 Do not edit the HTML elements within the body tag, only the CSS in the head. The end result should achieve layouts that look like so:
 
