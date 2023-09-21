@@ -9,7 +9,7 @@ The [HTML file](src/index.html) in this repository contains placeholder sections
 layouts. 
 Take this file and implement Grid layouts in each section according to the requirements defined by the heading.
 
-Do not edit the HTML elements within the body tag, only the styles in the [CSS file](src/styles.css)`. The end 
+Do not edit the HTML elements within the body tag, only the styles in the [CSS file](src/styles.css). The end 
 result should achieve layouts that look like so:
 
 ![Final Result](images/final-result.png)
